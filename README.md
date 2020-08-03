@@ -74,6 +74,9 @@
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)  
   The free and open source typeface for developers.
 
+- **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)
+  Authoring tool for CSS which uses JavaScript as a host language
+
 - **[Konva](https://github.com/konvajs/konva)** by [Anton Lavrenov](https://github.com/lavrton)  
   An HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
