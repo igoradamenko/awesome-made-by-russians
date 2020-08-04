@@ -35,7 +35,10 @@
   
 - **[IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)** by [JetBrains](https://github.com/JetBrains)<br>
   The open source version of IntelliJ IDEA, a premier IDE for Java, Groovy and other programming languages such as Scala or Clojure.
-  
+
+- **[Memcached](https://github.com/memcached/memcached)** by [Anatoly Vorobey](https://avva.livejournal.com/profile)<br>
+  Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system.
+
 - **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
   
@@ -82,10 +85,7 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 - **[Evil Icons](https://github.com/evil-icons/evil-icons)** by [Alexander Madyankin](https://github.com/outpunk) and [Roman Shamin](https://github.com/romashamin)<br>
   Simple and clean SVG icon pack.
-
-- **[FileAPI](https://github.com/mailru/FileAPI)** by [Mail.Ru Group](https://github.com/mailru)<br>
-  Set of JavaScript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
-
+  
 - **[Frontend Case Studies](https://github.com/andrew--r/frontend-case-studies)** by [Andrey Romanov](https://github.com/andrew--r)<br>
   A curated list of technical talks and articles about real-world enterprise frontend development.
 
@@ -138,12 +138,6 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 
 - **[Big-O Poster](https://github.com/ro31337/bigoposter)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Printer-friendly poster of Big-O complexities of common algorithms used in Computer Science.
-
-- **[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)** by [Alexey Grigorev](https://github.com/alexeygrigorev)<br>
-  Data science interview questions and answers.
-
-- **[EasyJSON](https://github.com/mailru/easyjson)** by [Mail.Ru Group](https://github.com/mailru)<br>
-  Fast JSON serializer for Go.
 
 - **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias/effector)<br>
   An effective multi-store state manager for JavaScript apps.
@@ -201,9 +195,6 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 - **[Tacit](https://github.com/yegor256/tacit)** by [Yegor Bugayenko](https://github.com/yegor256)<br>
   A primitive CSS framework for those who don't know anything about graphic design but want their web services to look eatable. No classes, no layouts.
-  
-- **[Tarantool](https://github.com/tarantool/tarantool)** by [Mail.Ru Group](https://github.com/mailru)<br>
-  An in-memory database and application server.
   
 - **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Collection of different tools to analyze your test suite performance.
