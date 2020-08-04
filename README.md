@@ -77,14 +77,16 @@
 - **[GIXY](https://github.com/yandex/gixy)** by [Yandex](https://github.com/yandex)<br>
   Nginx configuration static analyzer.
 
+- **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
+  Fast and secure standalone server for resizing and converting remote images.
+
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
 
 - **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)<br>
-  Authoring tool for CSS which uses JavaScript as a host language
-
-- **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
-  Fast and secure standalone server for resizing and converting remote images. 
+  Authoring tool for CSS which uses JavaScript as a host language.
+  
+- **[Konva](https://github.com/konvajs/konva)** by [Anton Lavrenov](https://github.com/lavrton)<br>
   An HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
 - **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
