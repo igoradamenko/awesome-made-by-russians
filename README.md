@@ -101,6 +101,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 - **[Konva](https://github.com/konvajs/konva)** by [Anton Lavrenov](https://github.com/lavrton)<br>
   An HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
+- **[Libretaxi](https://github.com/ro31337/libretaxi)** by [Roman Pushkin](https://github.com/ro31337)<br>
+  Uber proof-of-concept that works though Telegram.
+
 - **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
   Tool for running linters on Git staged files.
   
@@ -123,6 +126,9 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
   
 - **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)<br>
   Allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server.
+
+- **[Bigoposter](https://github.com/ro31337/bigoposter)** by [Roman Pushkin](https://github.com/ro31337)<br>
+  Printer-friendly poster of Big-O complexities of common algorithms used in Computer Science.
 
 - **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias/effector)<br>
   An effective multi-store state manager for JavaScript apps.
