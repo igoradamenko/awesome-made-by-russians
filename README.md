@@ -4,119 +4,150 @@
 
 ## > 30k ★
 
-- **[Fira Code](https://github.com/tonsky/FiraCode)** by [Nikita Prokopov](https://github.com/tonsky)  
+- **[Fira Code](https://github.com/tonsky/FiraCode)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   Free monospaced font with programming ligatures.
   
-- **[Kotlin](https://github.com/JetBrains/kotlin)** by [JetBrains](https://github.com/JetBrains)  
+- **[Kotlin](https://github.com/JetBrains/kotlin)** by [JetBrains](https://github.com/JetBrains)<br>
   Programming language.
 
-- **[Redux](https://github.com/reduxjs/redux)** by [Dan Abramov](https://github.com/gaearon)  
+- **[Redux](https://github.com/reduxjs/redux)** by [Dan Abramov](https://github.com/gaearon)<br>
   Predictable state container for JavaScript apps.
 
-- **[The Fuck](https://github.com/nvbn/thefuck)** by [Vladimir Iakovlev](https://github.com/nvbn)  
+- **[The Fuck](https://github.com/nvbn/thefuck)** by [Vladimir Iakovlev](https://github.com/nvbn)<br>
   Magnificent app which corrects your previous console command.
 
 ## > 10k ★
 
-- **[Autoprefixer](https://github.com/postcss/autoprefixer)** by [Andrey Sitnik](https://github.com/ai)  
+- **[Autoprefixer](https://github.com/postcss/autoprefixer)** by [Andrey Sitnik](https://github.com/ai)<br>
   PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
   
-- **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** by [Yandex](https://github.com/yandex)  
+- **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** by [Yandex](https://github.com/yandex)<br>
   A free analytics DBMS for big data.
   
-- **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock/core-js)  
+- **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock/core-js)<br>
   Modular standard library for JavaScript.
   
-- **[Framework7](https://github.com/framework7io/framework7)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)  
+- **[Framework7](https://github.com/framework7io/framework7)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Full featured HTML framework for building iOS & Android apps.
   
-- **[Highlight.js](https://github.com/highlightjs/highlight.js)** by [Ivan Sagalaev](https://github.com/isagalaev)  
+- **[Highlight.js](https://github.com/highlightjs/highlight.js)** by [Ivan Sagalaev](https://github.com/isagalaev)<br>
   JavaScript syntax highlighter.
   
-- **[IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)** by [JetBrains](https://github.com/JetBrains)  
+- **[IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)** by [JetBrains](https://github.com/JetBrains)<br>
   The open source version of IntelliJ IDEA, a premier IDE for Java, Groovy and other programming languages such as Scala or Clojure.
   
-- **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)  
+- **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)<br>
   Not Apache.
   
-- **[PostCSS](https://github.com/postcss/postcss)** by [Andrey Sitnik](https://github.com/ai)  
+- **[PostCSS](https://github.com/postcss/postcss)** by [Andrey Sitnik](https://github.com/ai)<br>
   Tool for transforming styles with JS plugins.
   
-- **[React Hot Loader](https://github.com/gaearon/react-hot-loader)** by [Dan Abramov](https://github.com/gaearon)  
+- **[React Hot Loader](https://github.com/gaearon/react-hot-loader)** by [Dan Abramov](https://github.com/gaearon)<br>
   Tweak React components in real time.
   
-- **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)  
+- **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Most modern mobile touch slider with hardware accelerated transitions.
+  
+- **Telegram apps** by developers from [Telegram](https://telegram.org/apps)<br>
+  Messenger clients for [iOS](https://github.com/TelegramMessenger/Telegram-iOS), [Android](https://github.com/DrKLO/Telegram), [macOS](https://github.com/overtake/TelegramSwift), [desktop](https://github.com/telegramdesktop/tdesktop), [web](https://github.com/zhukov/webogram). And [TDLib](https://github.com/tdlib/td).
 
 ## > 3k ★
 
-- **[AnyBar](https://github.com/tonsky/AnyBar)** by [Nikita Prokopov](https://github.com/tonsky)  
+- **[AnyBar](https://github.com/tonsky/AnyBar)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   A small indicator for macOS menubar.
 
-- **[Browserslist](https://github.com/browserslist/browserslist)** by [Andrey Sitnik](https://github.com/ai)  
+- **[Browserslist](https://github.com/browserslist/browserslist)** by [Andrey Sitnik](https://github.com/ai)<br>
   The config to share target browsers and Node.js versions between different front-end tools.
 
-- **[CatBoost](https://github.com/catboost/catboost)** by [Yandex](https://github.com/yandex)  
+- **[CatBoost](https://github.com/catboost/catboost)** by [Yandex](https://github.com/yandex)<br>
   A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other ML tasks.
 
-- **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)  
+- **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
   
-- **[DataScript](https://github.com/tonsky/datascript)** by [Nikita Prokopov](https://github.com/tonsky)  
+- **[DataScript](https://github.com/tonsky/datascript)** by [Nikita Prokopov](https://github.com/tonsky)<br>
   An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
 
-- **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)  
+- **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)<br>
   A web-developer’s toolkit for boosting HTML & CSS code writing.
+  
+- **[Evil Icons](https://github.com/evil-icons/evil-icons)** by [Alexander Madyankin](https://github.com/outpunk) and [Roman Shamin](https://github.com/romashamin)<br>
+  Simple and clean SVG icon pack.
 
-- **[GIXY](https://github.com/yandex/gixy)** by [Yandex](https://github.com/yandex)  
+- **[GIXY](https://github.com/yandex/gixy)** by [Yandex](https://github.com/yandex)<br>
   Nginx configuration static analyzer.
 
-- **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)  
+- **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
 
-- **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)
+- **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)<br>
   Authoring tool for CSS which uses JavaScript as a host language
 
-- **[Konva](https://github.com/konvajs/konva)** by [Anton Lavrenov](https://github.com/lavrton)  
+- **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
+  Fast and secure standalone server for resizing and converting remote images. 
   An HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
-- **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)  
+- **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
   Tool for running linters on Git staged files.
   
-- **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)  
+- **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
-- **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)  
+- **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)<br>
   Isolated React component development environment with a living style guide.
 
-- **[Shower](https://github.com/shower/shower)** by [Vadim Makeev](https://github.com/pepelsbey)  
+- **[Shower](https://github.com/shower/shower)** by [Vadim Makeev](https://github.com/pepelsbey)<br>
   HTML presentation engine.
 
-- **[Size Limit](https://github.com/ai/size-limit)** by [Andrey Sitnik](https://github.com/ai)  
+- **[Size Limit](https://github.com/ai/size-limit)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tool for JavaScript that checks every commit on CI, calculates the real cost of JS for end-users and throws an error if the cost exceeds the limit.
 
 ## > 1k ★
 
-- **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)  
+- **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)<br>
   Simple CSS library for semantic HTML markup.
+  
+- **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)<br>
+  Allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server.
 
-- **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias/effector)  
+- **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias/effector)<br>
   An effective multi-store state manager for JavaScript apps.
   
-- **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)  
+- **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)<br>
   A simple, stunning, powerful jQuery gallery.
   
-- **[Frontend Dictionary](https://github.com/web-standards-ru/dictionary)** by [Web Standards Ru](https://github.com/web-standards-ru)  
+- **[Frontend Dictionary](https://github.com/web-standards-ru/dictionary)** by [Web Standards Ru](https://github.com/web-standards-ru)<br>
   A repo with Russian translation of common terms and famous developers names.
   
-- **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)  
+- **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)<br>
+  Your Rails variables in your JS.
+  
+- **[Lefthook](https://github.com/Arkweid/lefthook)** by [Abroskin Alexander](https://github.com/Arkweid)<br>
+  Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
+  
+- **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
+  Process manager for Procfile-based applications and tmux.
+  
+- **[Parser](https://github.com/whitequark/parser)** by [whitequark](https://github.com/whitequark)<br>
+  Ruby parser written in pure Ruby.
+  
+- **[PostCSS Modules](https://github.com/css-modules/postcss-modules)** by [Alexander Madyankin](https://github.com/outpunk)<br>
+  PostCSS plugin to use CSS Modules everywhere.
+  
+- **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)<br>
   A tool to transform HTML/XML with JS plugins.
   
-- **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)  
+- **[Size Marks PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)<br>
+  A Photoshop script that makes measurement marks.
+  
+- **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte.
   
-- **[Tacit](https://github.com/yegor256/tacit)** by [Yegor Bugayenko](https://github.com/yegor256)  
+- **[Tacit](https://github.com/yegor256/tacit)** by [Yegor Bugayenko](https://github.com/yegor256)<br>
   A primitive CSS framework for those who don't know anything about graphic design but want their web services to look eatable. No classes, no layouts.
+  
+- **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)<br>
+  Collection of different tools to analyze your test suite performance.
 
 - The place for your next great pet project!
   
