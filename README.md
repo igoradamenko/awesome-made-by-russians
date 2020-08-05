@@ -330,6 +330,10 @@
 
 - **[Yii 2.0 Cookbook](https://github.com/samdark/yii2-cookbook)** by [Alexander Makarov](https://github.com/samdark)<br>
   An open source book full of tips and tricks about Yii 2.0 PHP framework.
+  
+- **[MTMR](https://github.com/samdark/yii2-cookbook)** by [Anton Palgunov](https://github.com/toxblh), [Sergey Buglakov](https://github.com/ReDetection) and [Daniel Apatin](https://github.com/ad)<br>
+  [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro 
+  
 
 - The place for your next great pet project!
   
